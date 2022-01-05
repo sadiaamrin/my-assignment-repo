@@ -15,9 +15,11 @@ section{
 #one{
     border-left:5px solid orangered;
     padding-left:10px;
+    font-family: 'EB Garamond', serif;
 }
 h1{
     font-size:50px;
+
 }
 .button{
     text-decoration:none;
@@ -80,4 +82,7 @@ h1{
 }
 p{
     margin-bottom: 50px;
+}
+body{
+    font-family: 'Poppins', sans-serif;
 }
