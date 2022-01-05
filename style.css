@@ -1,0 +1,79 @@
+.colour-korbo{
+    color:orange;
+}
+section{
+    display: flex;
+}
+.half{
+    width:50%;
+    padding-left:30px;
+    padding-right: 30px;
+}
+.half img{
+    width:60%;
+}
+#one{
+    border-left:5px solid orangered;
+}
+h1{
+    font-size:50px;
+}
+.button{
+    text-decoration:none;
+    background-image: linear-gradient(45deg, rgba(255, 0, 0, 0.308), rgb(250, 125, 8));
+    padding:10px 40px;
+    color:black;
+    font-size:20px;
+    font-weight:700px;
+}
+.moddhe{
+    text-align: center;
+    padding-top:50px;
+}
+.dure{
+    margin-top:50px;
+    font-size:18px;
+}
+.rong{
+    background-color: rgb(190, 236, 238);
+    box-shadow: 5px 5px 40px;
+    padding: 40px;
+    margin-top:30px;
+    margin-left: 30px;
+    margin-right: 30px;
+    border-radius:15px;
+    margin-top: 50px;
+    margin-bottom:50px;
+    border: 1px;
+}
+
+    background-color:rgb(252, 238, 211);
+    box-shadow: 10px 10px 40px;
+    padding: 80px;
+    margin-top:30px;
+    margin-left: 30px;
+    margin-right: 30px;
+    border-radius:10px;
+    margin-top: 30px;
+
+}
+    
+
+    background-color: rgb(248, 222, 227);
+    box-shadow: 10px 10px 40px;
+    padding: 80px;
+    margin-top:30px;
+    margin-left: 30px;
+    margin-right: 30px;
+    border-radius:10px;
+    margin-top: 30px;
+    width: 100px;
+
+}
+.bkgd-image{
+    background-image: url(images/pictures/coding.png);
+
+}
+.pad{
+    margin-top:80px;
+}
