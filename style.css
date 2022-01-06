@@ -1,26 +1,64 @@
-.colour-korbo{
+/* common style  */
+
+
+.common-style{
+    padding: 5%;
+    margin-left:5%;
+}
+.common-card{
+    box-shadow: 5px 5px 40px;
+    border-radius: 15px;
+    padding: 0 5%;
+    margin:0px 30px;
+}
+.text-align-center{
+    text-align: center;
+    margin-top: 50px;
+    padding: 30px 0px;
+}
+
+.orange-color{
     color:orange;
 }
-section{
+.flex{
     display: flex;
 }
-.half{
+.child{
     width:50%;
     padding-left:30px;
     padding-right: 30px;
 }
-.half img{
-    width:60%;
+.child img{
+    width: 80%;
 }
-#one{
+#common-image1{
+    width: 50%;
+    
+}
+#common-image2{
+    width: 50%;
+    
+}
+#common-image3{
+    width: 50%;
+    
+}
+#top-image{
+    margin-left:50px;
+    width: 80%;
+}
+#header-text-style{
     border-left:5px solid orangered;
     padding-left:10px;
     font-family: 'EB Garamond', serif;
+    line-height: 100px;
 }
 h1{
     font-size:50px;
+    margin: 0;
 
 }
+
 .button{
     text-decoration:none;
     background-image: linear-gradient(45deg, rgba(255, 0, 0, 0.308), rgb(250, 125, 8));
@@ -30,61 +68,47 @@ h1{
     font-weight:700px;
     border-radius:5px;
 }
-.moddhe{
+.p-padding{
+    padding-bottom: 25px;
+}
+.text-center{
     text-align: center;
-    padding-top:50px;
+    margin-top:0px;
 }
 .dure{
     margin-top:50px;
     font-size:18px;
 }
-.rong{
+/* card style  */
+/* mission  */
+.mission-card{
     background-color: rgb(226, 250, 252);
-    box-shadow: 5px 5px 40px;
-    border-radius: 15px;
-    margin:50px;
-    margin-bottom:100px;
-
-    
+     
 }
-.rong2{
+/* vission */
+.vission-card{
     background-color:rgb(255, 246, 228);
-    box-shadow: 5px 5px 40px;
-    border-radius: 15px;
-    margin:50px;
-    margin-bottom:100px;
+    
 
 }
-.rong3{
-
-    background-color: rgb(255, 239, 242);
-    box-shadow: 5px 5px 40px;
-    border-radius: 15px;
-    margin:50px;
-    margin-bottom:100px;
-}
-.bkgd-image{
-    background-image: url(images/shapes/dream-bg.png);
-    background-repeat: no-repeat;
-    background-position: left;
-
+/* goals */
+.goals-card{
+    background-color: rgb(255, 239, 242);  
 }
 .pad{
     margin-top:80px;
     
 }
-p{
-    margin-bottom: 50px;
-}
+
 body{
     font-family: 'Poppins', sans-serif;
-    padding-left:20px;
 }
 footer{
     background-color: black;
     text-align: center;
     color: white;
     font-family: 'Patrick Hand', cursive;
+    padding: 20px 0px;
 }
 .pic{
     background-image: url(images/shapes/shape-1.png);
@@ -95,4 +119,9 @@ footer{
 }
 .size-30{
     font-size:30px;
+}
+
+.padding{
+    padding:100px 0px;
+   
 }
