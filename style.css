@@ -42,8 +42,8 @@ h1{
     background-color: rgb(226, 250, 252);
     box-shadow: 5px 5px 40px;
     border-radius: 15px;
-    margin:100px 50px;
-    padding-top:20px;
+    margin:50px;
+    margin-bottom:100px;
 
     
 }
@@ -51,8 +51,8 @@ h1{
     background-color:rgb(255, 246, 228);
     box-shadow: 5px 5px 40px;
     border-radius: 15px;
-    margin:100px 50px;
-    padding-top:20px;
+    margin:50px;
+    margin-bottom:100px;
 
 }
 .rong3{
@@ -60,8 +60,8 @@ h1{
     background-color: rgb(255, 239, 242);
     box-shadow: 5px 5px 40px;
     border-radius: 15px;
-    margin:100px 50px;
-    padding-top:20px;
+    margin:50px;
+    margin-bottom:100px;
 }
 .bkgd-image{
     background-image: url(images/shapes/dream-bg.png);
