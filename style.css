@@ -75,10 +75,7 @@ h1{
     text-align: center;
     margin-top:0px;
 }
-.dure{
-    margin-top:50px;
-    font-size:18px;
-}
+
 /* card style  */
 /* mission  */
 .mission-card{
@@ -95,13 +92,14 @@ h1{
 .goals-card{
     background-color: rgb(255, 219, 226);  
 }
-.pad{
+.margin-top{
     margin-top:80px;
     
 }
 
 body{
     font-family: 'Poppins', sans-serif;
+    margin: 0px;
 }
 footer{
     background-color: black;
